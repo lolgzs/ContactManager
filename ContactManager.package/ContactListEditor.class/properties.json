@@ -1,0 +1,14 @@
+{
+	"category" : "ContactManager",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"contactSelectedIndex" ],
+	"name" : "ContactListEditor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

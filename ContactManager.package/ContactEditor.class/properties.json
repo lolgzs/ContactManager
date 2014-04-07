@@ -1,0 +1,14 @@
+{
+	"category" : "ContactManager",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"contact" ],
+	"name" : "ContactEditor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
